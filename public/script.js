@@ -124,7 +124,5 @@ document.addEventListener("DOMContentLoaded", function (event) {
             rect.right <= (window.innerWidth || document.documentElement.clientWidth)
         );
     }
-
-    // Contact Form
     
 })
